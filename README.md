@@ -108,7 +108,10 @@ Feel free to contribute, report issues, or provide feedback. Let's shape the fut
 ![Summary](/images/quiz_summary.png)
 ![Quiz Analysis](/images/quiz_analysis.png)
 
+---------
 
+
+License: [MIT](/LICENSE)
 
 
 
