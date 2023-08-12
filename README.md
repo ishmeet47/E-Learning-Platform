@@ -56,4 +56,59 @@ Feel free to contribute, report issues, or provide feedback. Let's shape the fut
 
 ---
 
+## UI
+
+## Dashboard
+![Dashboard](/images/dashboard.png)
+
+## All Courses
+![Courses](/images/all_courses.png)
+
+## Memberships
+![Memberships](/images/membership.png)
+
+## Payments using Stripe
+![Payment](/images/payment_page.png)
+
+## Profile Page
+![Profile](/images/profile.png)
+
+# Course Page
+![Course](/images/course_dashboard.png)
+
+## Sign In
+![Sign-In](/images/sign_in.png)
+
+## Sign Up
+![Sign Up](/images/sign_up.png)
+
+## Forgot Password
+![Forgot Password](/images/forgot_pwd.png)
+
+## Password Reset Email
+![Password Reset Email](/images/Email_confirmation.png)
+
+## Add Courses
+### Only by Faculty (used Sessions to check Student and Faculty login)
+![Add_Course](/images/add_course.png)
+
+## Create Assignment
+![Assignment](/images/create_assignment.png)
+
+## Assignment Submission
+![assignment_submission](/images/assignment_submission.png)
+
+## Attendance
+![Attendance](/images/attendance.png)
+
+## Quiz
+![Quiz](/images/quiz.png)
+![Quiz Start](/images/quiz_start.png)
+![Questions](/images/quiz_ques.png)
+![Summary](/images/quiz_summary.png)
+![Quiz Analysis](/images/quiz_analysis.png)
+
+
+
+
 
